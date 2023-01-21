@@ -50,7 +50,7 @@ const q2 = {
   alternativaB: "Nenhum dos citados",
   alternativaC: "Load",
   alternativaD: "Reload",
-  correta: "Reload",
+  correta: "...And Justice for All",
 };
 
 const q3 = {
