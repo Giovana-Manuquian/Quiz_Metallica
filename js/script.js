@@ -284,7 +284,7 @@ function verificarSeAcertou(nQuestao, resposta) {
 
   // atualizar placar
   placar = pontos;
-  instrucoes.textContent = "Score: " + placar;
+  instrucoes.textContent = "Pontos " + placar;
 
   // bloquear a escolha de opcoes
   bloquearAlternativas();
